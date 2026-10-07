@@ -1,226 +1,132 @@
-<div align="center">
+:::writing{variant="document" id="62418" title="README.md — eve0611 Minimal Cyberpunk"} <div align="center">
 
-#  EVE0611 👾
+eve0611
+Developer · Creator · Gamer
 
-### `💻 Developer` · `🎮 Gamer` · `🌌 Dreamer`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Welcome+to+Eve's+World+%F0%9F%8C%8C;Coding+%7C+Gaming+%7C+Creating+%F0%9F%92%9C;Loading+creativity...+%E2%9A%A1;Let's+build+something+awesome!+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile;Building+cool+things;Coding+%7C+Learning+%7C+Creating;Always+leveling+up" />
 
 <br>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-8B5CF6?style=for-the-badge&labelColor=0F172A" />
-<img src="https://img.shields.io/badge/LEVEL-UP-38BDF8?style=for-the-badge&labelColor=0F172A" />
-<img src="https://img.shields.io/badge/COFFEE-100%25-7C3AED?style=for-the-badge&labelColor=0F172A" />
-
-<br><br>
-
-<a href="https://github.com/eve0611">
-<img src="https://img.shields.io/badge/GitHub-eve0611-0F172A?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-8B5CF6?style=for-the-badge&labelColor=0F172A" /> <img src="https://img.shields.io/badge/LEVEL-UP-38BDF8?style=for-the-badge&labelColor=0F172A" />
 
 </div>
 
----
+About
+I'm eve0611, a developer interested in technology, creative projects and gaming.
 
+I enjoy learning new technologies, building things from scratch and turning ideas into projects.
+
+Username   : eve0611
+Role       : Developer
+Status     : Online
+Focus      : Development
+Location   : Earth
+Current Quest
+MAIN QUEST
+
+Build something worth remembering.
+
+Progress
+[████████████████░░░░] 80%
++ Learn new technologies
++ Build personal projects
++ Improve every day
++ Explore new ideas
+- Become a legendary developer
+Skill Tree
+                         eve0611
+                            |
+             +--------------+--------------+
+             |              |              |
+          CODE           CREATE          GAME
+             |              |              |
+        +----+----+     +---+---+      +---+---+
+        |         |     |       |      |       |
+       WEB     PYTHON  DESIGN  IDEAS  PLAY    XP
+        |         |     |       |      |       |
+        +---------+-----+-------+------+-------+
+                            |
+                         LEVEL UP
+Tech Stack
 <div align="center">
 
-##  WELCOME TO EVE'S CORNER
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=120&section=header&text=EVE0611&fontSize=40&fontColor=ffffff&animation=twinkling" />
-
-</div>
-
->  *A little corner of the internet where code, creativity and chaos meet.*
-
----
-
-# 🎮 PLAYER PROFILE
-
-╭────────────────────────────────────────────╮ │  PLAYER CARD │ ├────────────────────────────────────────────┤ │ │ │  Username : eve0611 │ │  Class : Developer │ │  Level : ??? │ │  World : Internet │ │  Status : ONLINE │ │ │ │  XP :  85% │ │  Knowledge :  70% │ │ Coffee :100% │ │ │ ╰────────────────────────────────────────────╯
-
-
----
-
-#  CURRENT QUEST
-
-###  Main Mission
-
-╔════════════════════════════════════════════╗ ║ 🎯 MAIN QUEST ║ ╠════════════════════════════════════════════╣ ║ ║ ║ BUILD SOMETHING AWESOME 🚀 ║ ║ ║ ║ [████████████████░░░░] 80% ║ ║ ║ ╚════════════════════════════════════════════╝
-
-
-### 📜 Quest Log
-
-[✓] Start coding
-[✓] Learn new technologies
-[✓] Build cool projects
-[✓] Survive debugging
-[✓] Drink questionable amounts of coffee
-Become legendary
-Defeat the final boss
-
----
-
-# ⚡ SKILL TREE
-
-🌟 EVE0611 │ ┌────────────────┼────────────────┐ │ │ │ 💻 CODE 🎨 CREATE 🎮 GAME │ │ │ ┌────┴────┐ ┌────┴────┐ ┌────┴────┐ │ │ │ │ │ │ 🌐 WEB 🐍 CODE 🎨 DESIGN ✨ IDEAS 🎯 PLAY 🏆 XP │ │ │ │ │ │ └─────────┴──────┴─────────┴──────┴─────────┘ │ ▼ 🚀 LEVEL UP
-
-
----
-
-# 🛠️ TECH INVENTORY
-
-<div align="center">
-
-### 💻 LANGUAGES
-
+Languages
 <img src="https://skillicons.dev/icons?i=js,ts,py,java" />
 
 <br><br>
 
-### 🌐 WEB DEVELOPMENT
-
+Development
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs" />
 
 <br><br>
 
-### 🔧 TOOLS
-
+Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma" />
 
 </div>
 
----
+Projects
+Project 01
+Project Name
 
-# 👾 MINI GAME
+A short description of your project and what problem it solves.
 
+React Node.js PostgreSQL
+
+View Project
+
+Project 02
+Project Name
+
+A short description of another project you're working on.
+
+Python FastAPI Docker
+
+View Project
+
+Player Stats
 <div align="center">
 
-## SELECT YOUR CHARACTER
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=eve0611&showicons=true&theme=tokyonight&hideborder=true&bgcolor=0F172A&titlecolor=8B5CF6&iconcolor=38BDF8&textcolor=CBD5E1" />
 
-╔════════════════════════════════════════════╗ ║ ⚔️ CHARACTER SELECT ⚔️ ║ ╠════════════════════════════════════════════╣ ║ ║ ║ 🧙‍♀️ 🥷 🤖 ║ ║ ║ ║ MAGE NINJA CYBORG ║ ║ ║ ║ ⚡⚡⚡ ⚔️⚔️⚔️ 🔥🔥🔥 ║ ║ ║ ║ 80 HP 95 HP 100 HP ║ ║ ║ ╚════════════════════════════════════════════╝
-
-
-### 🎯 FINAL BOSS
-
-👾 ┌───────────┐ │ DEADLINE │ └─────┬─────┘ │ ┌─────▼─────┐ │ FINAL │ │ BOSS │ │ HP: 999 │ └─────┬─────┘ │ ⚔️ EVE0611 ⚔️ │ 💜 💜 💜 💜 💜
-
-
-**BOSS HP**
-
-`████████░░░░░░░░░░ 40%`
-
-> 💡 *The only way to defeat the deadline is to start the project.*
-
----
-
-# 🚀 PROJECTS
-
-<div align="center">
-
-## 🌌 PROJECT 01
-
-╭──────────────────────────────────────╮ │ ✨ PROJECT NAME │ ├──────────────────────────────────────┤ │ │ │ Your awesome project description. │ │ │ │ ⚙️ React │ │ ⚙️ Node.js │ │ ⚙️ PostgreSQL │ │ │ ╰──────────────────────────────────────╯
-
-
-<a href="TU_LINK">
-<img src="https://img.shields.io/badge/🚀_VIEW_PROJECT-7C3AED?style=for-the-badge" />
-</a>
-
-<br><br>
-
-## 🤖 PROJECT 02
-
-╭──────────────────────────────────────╮ │ 🤖 PROJECT NAME │ ├──────────────────────────────────────┤ │ │ │ Another cool project. │ │ │ │ ⚙️ Python │ │ ⚙️ FastAPI │ │ ⚙️ Docker │ │ │ ╰──────────────────────────────────────╯
-
-
-<a href="TU_LINK">
-<img src="https://img.shields.io/badge/🎮_PLAY_PROJECT-2563EB?style=for-the-badge" />
-</a>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eve0611&layout=compact&theme=tokyonight&hideborder=true&bgcolor=0F172A&titlecolor=8B5CF6&textcolor=CBD5E1" />
 
 </div>
 
----
-
-# 🏆 ACHIEVEMENTS
-
-╔════════════════════════════════════════════╗ ║ 🏆 ACHIEVEMENTS ║ ╠════════════════════════════════════════════╣ ║ ║ ║ 🌟 FIRST BLOOD ║ ║ └─ Made the first commit ║ ║ ║ ║ 🚀 PROJECT LAUNCHER ║ ║ └─ Published a project ║ ║ ║ ║ 🐛 BUG HUNTER ║ ║ └─ Defeated a terrible bug ║ ║ ║ ║ ☕ NIGHT CODER ║ ║ └─ Coded after midnight ║ ║ ║ ║ 💜 CREATIVE SOUL ║ ║ └─ Built something unique ║ ║ ║ ║ 👑 LEGENDARY ║ ║ └─ ??? SECRET ACHIEVEMENT ??? ║ ║ ║ ╚════════════════════════════════════════════╝
-
-
----
-
-# 📊 GITHUB STATS
-
+Contribution Graph
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=eve0611&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=8B5CF6&icon_color=38BDF8&text_color=CBD5E1" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eve0611&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=8B5CF6&text_color=CBD5E1" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=eve0611&bgcolor=0F172A&color=8B5CF6&line=38BDF8&point=FFFFFF&area=true&hideborder=true" width="95%"/>
 
 </div>
 
----
+System
+> Initializing eve0611.exe
 
-# 📈 CONTRIBUTION WORLD
+> Loading creativity............. [██████████] 100%
+> Loading knowledge.............. [████████░░]  80%
+> Loading motivation............. [████████░░]  82%
+> Searching for bugs............. FOUND
 
+> System status................. ONLINE
+
+> Welcome to my profile.
+> Keep building.
+Currently
+Listening   : Your favorite song
+Playing     : Your favorite game
+Learning    : Your current technology
+Building    : Your current project
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=eve0611&bg_color=0F172A&color=8B5CF6&line=38BDF8&point=FFFFFF&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-# 🌙 EVE'S SYSTEM LOG
-
-╭──────────────────────────────────────────────╮ │ SYSTEM LOG │ ├──────────────────────────────────────────────┤ │ │ │ > Booting eve0611.exe... │ │ │ │ > Loading creativity............. [████] 100% │ │ > Loading caffeine............... [████] 100% │ │ > Loading motivation............. [███░] 82% │ │ > Searching for bugs............. FOUND 🐛 │ │ │ │ > Initializing imagination... │ │ > Initializing projects... │ │ > Initializing chaos... │ │ │ │ > STATUS: ONLINE 🟢 │ │ │ │ > Welcome, traveler. │ │ > Your next adventure begins here... │ │ │ ╰──────────────────────────────────────────────╯
-
-
----
-
-# 💭 RANDOM THOUGHT
-
-<div align="center">
-
-### 🎧 Currently listening to
-
-`🎵 YOUR FAVORITE SONG`
-
-### 🎮 Currently playing
-
-`🎮 YOUR FAVORITE GAME`
-
-### 📚 Currently learning
-
-`🧠 YOUR TECHNOLOGY`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=100&section=footer&animation=twinkling" />
 
 <br>
-
-> **"Stay curious. Keep building."** 💜
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=120&section=footer&animation=twinkling" />
-
-## 💜 THANKS FOR VISITING!
 
 <img src="https://komarev.com/ghpvc/?username=eve0611&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS" />
 
 <br><br>
 
-`💜` `💙` `🩵` `💜` `💙`
+eve0611.exe
 
-### `eve0611.exe` is always under development 🚀
-
-</div>
-⚠️ Solo tienes que cambiar estas partes
-Busca en el código:
-
-TU_LINK → pon el enlace de tus proyectos.
-YOUR FAVORITE SONG → tu canción.
-YOUR FAVORITE GAME → tu juego.
-YOUR TECHNOLOGY → lo que estás aprendiendo.
-Las tecnologías de TECH INVENTORY → deja solamente las que realmente uses.
+</div> :::
