@@ -70,12 +70,7 @@
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:35369C,50:3F2548,100:24201A&height=100&section=footer" width="100%" alt="" />
-Next	What if...? Keep learning, keep creating, keep asking what will happen next.
-Contact
 
-Want to say hi or build something together?
-
-GitHub
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=A7D8F0&height=120&section=footer" width="100%" alt="" />
 
