@@ -24,7 +24,7 @@
 <td align="center" valign="middle">
 <pre>
 *    +    .
- /\_/\   *
+  /\_/\   *
 ( o.o )
  &gt; ^ &lt;  +
 </pre>
