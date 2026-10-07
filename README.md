@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💜 EVE0611 👾
+#  EVE0611 👾
 
 ### `💻 Developer` · `🎮 Gamer` · `🌌 Dreamer`
 
@@ -24,26 +24,26 @@
 
 <div align="center">
 
-## 🌌 WELCOME TO EVE'S WORLD
+##  WELCOME TO EVE'S CORNER
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=120&section=header&text=EVE0611&fontSize=40&fontColor=ffffff&animation=twinkling" />
 
 </div>
 
-> ✨ *A little corner of the internet where code, creativity and chaos meet.*
+>  *A little corner of the internet where code, creativity and chaos meet.*
 
 ---
 
 # 🎮 PLAYER PROFILE
 
-╭────────────────────────────────────────────╮ │ 🎮 PLAYER CARD │ ├────────────────────────────────────────────┤ │ │ │ 👤 Username : eve0611 │ │ 🧩 Class : Developer │ │ ⭐ Level : ??? │ │ 🌌 World : Internet │ │ 💜 Status : ONLINE │ │ │ │ ⚡ XP : ███████████████░░ 85% │ │ 🧠 Knowledge : ████████████░░░░ 70% │ │ ☕ Coffee : ████████████████ 100% │ │ │ ╰────────────────────────────────────────────╯
+╭────────────────────────────────────────────╮ │  PLAYER CARD │ ├────────────────────────────────────────────┤ │ │ │  Username : eve0611 │ │  Class : Developer │ │  Level : ??? │ │  World : Internet │ │  Status : ONLINE │ │ │ │  XP :  85% │ │  Knowledge :  70% │ │ Coffee :100% │ │ │ ╰────────────────────────────────────────────╯
 
 
 ---
 
-# 🕹️ CURRENT QUEST
+#  CURRENT QUEST
 
-### ⚔️ Main Mission
+###  Main Mission
 
 ╔════════════════════════════════════════════╗ ║ 🎯 MAIN QUEST ║ ╠════════════════════════════════════════════╣ ║ ║ ║ BUILD SOMETHING AWESOME 🚀 ║ ║ ║ ║ [████████████████░░░░] 80% ║ ║ ║ ╚════════════════════════════════════════════╝
 
