@@ -24,9 +24,9 @@
 <td align="center" valign="middle">
 <pre>
 *    +    .
-  /\_/\   *
+   /\_/\   *
  ( o.o )
-&gt; ^ &lt;  +
+ &gt; ^ &lt;  +
  </pre>
 <!-- Want the colored pixel cat instead? Upload cat.svg to this repo and replace the <pre> block above with:
 <img src="cat.svg" width="240" alt="Pixel cat" />
@@ -61,38 +61,7 @@
 </table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:24201A,25:3F2548,50:35369C,75:7C679E,100:C8C793&height=6" width="100%" height="6" alt="" />
-name: Generate snake
 
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate snake SVGs
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg?color_snake=#35369C&color_dots=#ebedf0,#cfc6e0,#7C679E,#3F2548,#24201A
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#C8C793&color_dots=#1b1722,#3F2548,#35369C,#7C679E,#C8C793
-
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ### GitHub Stats
 
 <p align="center">
