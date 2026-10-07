@@ -1,5 +1,122 @@
-<!-- ENCABEZADO --> <img src="https://capsule-render.vercel.app/api?type=waving&color=B39DDB&height=200&section=header&text=Hi%20there!%20%F0%9F%91%8B&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Bienvenid%40%20a%20mi%20perfil%20%E2%9C%A8&descSize=20&descAlignY=60" width="100%" alt="encabezado" /> <h3 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9575CD&center=true&vCenter=true&width=520&lines=Hola,+soy+Eve+%E2%9C%A8;Creando+cosas+bonitas+%F0%9F%92%9C;Aprendiendo+cada+d%C3%ADa+%F0%9F%8C%B1;Me+encantan+los+colores+pastel+%F0%9F%A9%B5" alt="Escribiendo..." /> </h3> <p align="center"> <img src="https://img.shields.io/github/followers/eve0611?style=for-the-badge&color=B39DDB&labelColor=A7D8F0" alt="Seguidores" /> <img src="https://komarev.com/ghpvc/?username=eve0611&color=81D4FA&style=for-the-badge&label=VISITAS" alt="Visitas" /> </p>
-<p align="center"> <img src="https://img.shields.io/badge/HTML5-B39DDB?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-81D4FA?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-9575CD?style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/Python-64B5F6?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Git-B39DDB?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-81D4FA?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> </p>
-<p align="center"> <img src="https://img.shields.io/badge/HTML5-B39DDB?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-81D4FA?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-9575CD?style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/Python-64B5F6?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Git-B39DDB?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-81D4FA?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> </p>
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=eve0611&show_icons=true&hide_border=false&bg_color=F3EEFF&title_color=9575CD&text_color=5C6BC0&icon_color=81D4FA&border_color=D1C4E9" alt="Estadísticas" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eve0611&layout=compact&bg_color=F3EEFF&title_color=9575CD&text_color=5C6BC0&border_color=D1C4E9" alt="Lenguajes" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=eve0611&background=F3EEFF&border=D1C4E9&ring=9575CD&fire=81D4FA&currStreakNum=5C6BC0&sideNums=5C6BC0&currStreakLabel=7E57C2&sideLabels=7E57C2&dates=7986CB" alt="Racha" /> </p>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=A7D8F0&height=120&section=footer" width="100%" alt="pie" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B39DDB&height=200&section=header&text=eve%27s%20rinc%C3%B3n&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=Welcome%20to%20my%20corner&descSize=20&descAlignY=62" width="100%" alt="eve's rincón" /> <p align="center"><em>The art of continuing is asking yourself: what will happen if...?</em></p>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-30 -30 284 236" width="284" height="236" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTplNmYzOGM4OC01NTQwLTQ1YjMtOWQ1Ny03MWJiNGQ2NTcyOGUAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaIkeggBnhcCvXws2XWwiPosAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDphZjM0OGZmMi1lZWMyLTQ3NWItODI0Mi1kM2M1ZGNkMjQ0ZTNscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNocAL4aE1V0yQ1c9zbmFLI/AAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgg6eCNiuUig3KoiQ7ung1FgW1oCR6+yC7KDD4hZpNPP9WkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaLxPV+DF8QvcstWk/Pe62kwAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCA4NDRygNzAtgUP+rs8DfOP5vwZZtkt+7jfytCsTgdSjWRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBiaZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmU2ZjM4Yzg4LTU1NDAtNDViMy05ZDU3LTcxYmI0ZDY1NzI4ZS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjA4MWZiZWE3LTkxMzYtNGZiNS04NWM1LWFiZGM0YzdjOTU4ZnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCDp4I2K5SKDcqiJDu6eDUWBbWgJHr7ILsoMPiFmk08/1aJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggaV6OVLaltfp+tBghgVDT1+3L/8c0CmetgQPv9n9MySiiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggEO8bclm66Upy+v9XjatP29of1kHIc4LGE12SUm+TFNx0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQNaMcksu9bR66XzVK16Lj/CkwSCMMImHcw5b0teji6w6rPrfGYHY7Xf1EseCOGmLHoZT1xVTi2A2kvkeyWRt6Ew=</c2pa:manifest></metadata>
+<rect x="32" y="0" width="16" height="16" fill="#9575CD"/>
+<rect x="144" y="0" width="16" height="16" fill="#9575CD"/>
+<rect x="32" y="16" width="16" height="16" fill="#9575CD"/>
+<rect x="48" y="16" width="16" height="16" fill="#9575CD"/>
+<rect x="128" y="16" width="16" height="16" fill="#9575CD"/>
+<rect x="144" y="16" width="16" height="16" fill="#9575CD"/>
+<rect x="16" y="32" width="16" height="16" fill="#9575CD"/>
+<rect x="32" y="32" width="16" height="16" fill="#9575CD"/>
+<rect x="48" y="32" width="16" height="16" fill="#9575CD"/>
+<rect x="64" y="32" width="16" height="16" fill="#9575CD"/>
+<rect x="80" y="32" width="16" height="16" fill="#9575CD"/>
+<rect x="96" y="32" width="16" height="16" fill="#9575CD"/>
+<rect x="112" y="32" width="16" height="16" fill="#9575CD"/>
+<rect x="128" y="32" width="16" height="16" fill="#9575CD"/>
+<rect x="144" y="32" width="16" height="16" fill="#9575CD"/>
+<rect x="160" y="32" width="16" height="16" fill="#9575CD"/>
+<rect x="0" y="48" width="16" height="16" fill="#9575CD"/>
+<rect x="16" y="48" width="16" height="16" fill="#9575CD"/>
+<rect x="32" y="48" width="16" height="16" fill="#9575CD"/>
+<rect x="48" y="48" width="16" height="16" fill="#9575CD"/>
+<rect x="64" y="48" width="16" height="16" fill="#9575CD"/>
+<rect x="80" y="48" width="16" height="16" fill="#9575CD"/>
+<rect x="96" y="48" width="16" height="16" fill="#9575CD"/>
+<rect x="112" y="48" width="16" height="16" fill="#9575CD"/>
+<rect x="128" y="48" width="16" height="16" fill="#9575CD"/>
+<rect x="144" y="48" width="16" height="16" fill="#9575CD"/>
+<rect x="160" y="48" width="16" height="16" fill="#9575CD"/>
+<rect x="176" y="48" width="16" height="16" fill="#9575CD"/>
+<rect x="0" y="64" width="16" height="16" fill="#9575CD"/>
+<rect x="16" y="64" width="16" height="16" fill="#9575CD"/>
+<rect x="32" y="64" width="16" height="16" fill="#2D1B69"/>
+<rect x="48" y="64" width="16" height="16" fill="#2D1B69"/>
+<rect x="64" y="64" width="16" height="16" fill="#9575CD"/>
+<rect x="80" y="64" width="16" height="16" fill="#9575CD"/>
+<rect x="96" y="64" width="16" height="16" fill="#9575CD"/>
+<rect x="112" y="64" width="16" height="16" fill="#9575CD"/>
+<rect x="128" y="64" width="16" height="16" fill="#2D1B69"/>
+<rect x="144" y="64" width="16" height="16" fill="#2D1B69"/>
+<rect x="160" y="64" width="16" height="16" fill="#9575CD"/>
+<rect x="176" y="64" width="16" height="16" fill="#9575CD"/>
+<rect x="0" y="80" width="16" height="16" fill="#9575CD"/>
+<rect x="16" y="80" width="16" height="16" fill="#9575CD"/>
+<rect x="32" y="80" width="16" height="16" fill="#9575CD"/>
+<rect x="48" y="80" width="16" height="16" fill="#9575CD"/>
+<rect x="64" y="80" width="16" height="16" fill="#9575CD"/>
+<rect x="80" y="80" width="16" height="16" fill="#9575CD"/>
+<rect x="96" y="80" width="16" height="16" fill="#9575CD"/>
+<rect x="112" y="80" width="16" height="16" fill="#9575CD"/>
+<rect x="128" y="80" width="16" height="16" fill="#9575CD"/>
+<rect x="144" y="80" width="16" height="16" fill="#9575CD"/>
+<rect x="160" y="80" width="16" height="16" fill="#9575CD"/>
+<rect x="176" y="80" width="16" height="16" fill="#9575CD"/>
+<rect x="208" y="80" width="16" height="16" fill="#9575CD"/>
+<rect x="16" y="96" width="16" height="16" fill="#9575CD"/>
+<rect x="32" y="96" width="16" height="16" fill="#9575CD"/>
+<rect x="48" y="96" width="16" height="16" fill="#9575CD"/>
+<rect x="64" y="96" width="16" height="16" fill="#9575CD"/>
+<rect x="80" y="96" width="16" height="16" fill="#81D4FA"/>
+<rect x="96" y="96" width="16" height="16" fill="#81D4FA"/>
+<rect x="112" y="96" width="16" height="16" fill="#9575CD"/>
+<rect x="128" y="96" width="16" height="16" fill="#9575CD"/>
+<rect x="144" y="96" width="16" height="16" fill="#9575CD"/>
+<rect x="160" y="96" width="16" height="16" fill="#9575CD"/>
+<rect x="208" y="96" width="16" height="16" fill="#9575CD"/>
+<rect x="32" y="112" width="16" height="16" fill="#9575CD"/>
+<rect x="48" y="112" width="16" height="16" fill="#9575CD"/>
+<rect x="64" y="112" width="16" height="16" fill="#9575CD"/>
+<rect x="80" y="112" width="16" height="16" fill="#9575CD"/>
+<rect x="96" y="112" width="16" height="16" fill="#9575CD"/>
+<rect x="112" y="112" width="16" height="16" fill="#9575CD"/>
+<rect x="128" y="112" width="16" height="16" fill="#9575CD"/>
+<rect x="144" y="112" width="16" height="16" fill="#9575CD"/>
+<rect x="192" y="112" width="16" height="16" fill="#9575CD"/>
+<rect x="208" y="112" width="16" height="16" fill="#9575CD"/>
+<rect x="32" y="128" width="16" height="16" fill="#9575CD"/>
+<rect x="48" y="128" width="16" height="16" fill="#9575CD"/>
+<rect x="64" y="128" width="16" height="16" fill="#9575CD"/>
+<rect x="80" y="128" width="16" height="16" fill="#9575CD"/>
+<rect x="96" y="128" width="16" height="16" fill="#9575CD"/>
+<rect x="112" y="128" width="16" height="16" fill="#9575CD"/>
+<rect x="128" y="128" width="16" height="16" fill="#9575CD"/>
+<rect x="144" y="128" width="16" height="16" fill="#9575CD"/>
+<rect x="176" y="128" width="16" height="16" fill="#9575CD"/>
+<rect x="192" y="128" width="16" height="16" fill="#9575CD"/>
+<rect x="32" y="144" width="16" height="16" fill="#9575CD"/>
+<rect x="48" y="144" width="16" height="16" fill="#9575CD"/>
+<rect x="64" y="144" width="16" height="16" fill="#9575CD"/>
+<rect x="80" y="144" width="16" height="16" fill="#9575CD"/>
+<rect x="96" y="144" width="16" height="16" fill="#9575CD"/>
+<rect x="112" y="144" width="16" height="16" fill="#9575CD"/>
+<rect x="128" y="144" width="16" height="16" fill="#9575CD"/>
+<rect x="144" y="144" width="16" height="16" fill="#9575CD"/>
+<rect x="176" y="144" width="16" height="16" fill="#9575CD"/>
+<rect x="32" y="160" width="16" height="16" fill="#9575CD"/>
+<rect x="48" y="160" width="16" height="16" fill="#9575CD"/>
+<rect x="128" y="160" width="16" height="16" fill="#9575CD"/>
+<rect x="144" y="160" width="16" height="16" fill="#9575CD"/>
+<path d="M-14 9L-11.7 13.7L-7 16L-11.7 18.3L-14 23L-16.3 18.3L-21 16L-16.3 13.7Z" fill="#81D4FA"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.4s" begin="0.0s" repeatCount="indefinite"/></path>
+<path d="M238 -3L241.0 3.0L247 6L241.0 9.0L238 15L235.0 9.0L229 6L235.0 3.0Z" fill="#81D4FA"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.4s" begin="0.5s" repeatCount="indefinite"/></path>
+<path d="M252 114L254.0 118.0L258 120L254.0 122.0L252 126L250.0 122.0L246 120L250.0 118.0Z" fill="#81D4FA"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.4s" begin="1.0s" repeatCount="indefinite"/></path>
+<path d="M-8 144L-6.0 148.0L-2 150L-6.0 152.0L-8 156L-10.0 152.0L-14 150L-10.0 148.0Z" fill="#81D4FA"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.4s" begin="1.5s" repeatCount="indefinite"/></path>
+<path d="M112 -26L114.0 -22.0L118 -20L114.0 -18.0L112 -14L110.0 -18.0L106 -20L110.0 -22.0Z" fill="#81D4FA"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.4s" begin="2.0s" repeatCount="indefinite"/></path>
+<circle cx="-4" cy="60" r="7" fill="none" stroke="#9575CD" stroke-width="3"/>
+<circle cx="244" cy="70" r="9" fill="none" stroke="#9575CD" stroke-width="3"/>
+</svg>
+About Me
+<table> <tr> <td width="55%" valign="middle"> <p>Hi, I'm Eve! I'm a creative person who is always drawn toward new things to learn.</p> <p>I have basic knowledge of Excel and Python, and I'm growing it one curious step at a time.</p> <p>I love turning "what if?" into something real.</p> </td> <td align="center" valign="middle"> <img src="cat.svg" width="280" alt="Pixel cat with sparkles" /> </td> </tr> </table>
+Skills & Technologies
+<table> <tr> <td valign="top" width="33%"> <b>Mindset</b><br><br> <img src="https://img.shields.io/badge/creative-B39DDB?style=flat-square" alt="creative" /> <img src="https://img.shields.io/badge/curious-81D4FA?style=flat-square" alt="curious" /> <img src="https://img.shields.io/badge/always%20learning-9575CD?style=flat-square" alt="always learning" /> </td> <td valign="top" width="33%"> <b>Tools</b><br><br> <img src="https://img.shields.io/badge/Excel-basic-B39DDB?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel basic" /> <img src="https://img.shields.io/badge/Python-basic-81D4FA?style=flat-square&logo=python&logoColor=white" alt="Python basic" /> </td> <td valign="top" width="33%"> <b>Next up</b><br><br> <img src="https://img.shields.io/badge/new%20ideas-9575CD?style=flat-square" alt="new ideas" /> <img src="https://img.shields.io/badge/what%20if%3F-81D4FA?style=flat-square" alt="what if?" /> </td> </tr> </table>
+Journey
+When	What
+2026	Building my corner. Started shaping eve's rincón, my little space for creating and learning.
+Next	What if...? Keep learning, keep creating, keep asking what will happen next.
+Contact
+
+Want to say hi or build something together?
+
+GitHub
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=A7D8F0&height=120&section=footer" width="100%" alt="" />
