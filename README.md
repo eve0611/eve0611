@@ -1,199 +1,93 @@
+```md
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0B1A&height=180&section=header&text=HI%20THERE,%20I'M%20eve0611&fontSize=38&fontColor=C4A1FF&animation=fadeIn&fontAlignY=40&desc=ONE%20DAY%20AT%20A%20TIME&descSize=16&descAlignY=70&descColor=E4D7FF" width="100%"/>
+<!-- HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0b14,50:30105e,100:8b5cf6&height=180&section=header&text=Hi%20there,%20I'm%20Eve!&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20profile&descSize=15&descAlignY=55"/>
 
 </div>
 
-<br>
-
+<!-- INTRODUCTION -->
 <table>
 <tr>
-<td width="30%" valign="top">
+<td width="65%" valign="top">
 
-<h3 align="center">NAVIGATION</h3>
+## ✦ About Me
 
-<p align="center">
-<a href="#about-me">About Me</a>
-</p>
+Hi! I'm **Eve**, a student who enjoys learning new things and exploring the world of technology.
 
-<p align="center">
-<a href="#skills">Skills</a>
-</p>
-
-<p align="center">
-<a href="#technical-knowledge">Technical Knowledge</a>
-</p>
-
-<p align="center">
-<a href="#my-mindset">My Mindset</a>
-</p>
+- Student interested in technology and administration.
+- Basic knowledge of **Python** and **Excel**.
+- Interested in critical thinking and analytical skills.
+- Always learning and improving my skills.
+- Creative, curious, and open to new challenges.
+- My goal is to grow both personally and professionally.
 
 <br>
 
-<h3 align="center">MY FOCUS</h3>
-
-<p align="center">
-Continuous Learning
-</p>
-
-<p align="center">
-Personal Growth
-</p>
-
-<p align="center">
-Technology
-</p>
+*"Every day is an opportunity to learn something new."*
 
 </td>
+<td width="35%" align="center" valign="middle">
 
-<td width="70%" valign="top">
-
-<h2 id="about-me">About Me</h2>
-
-<p>
-I am a student passionate about learning and continuous
-growth. I enjoy discovering new things, expanding my
-knowledge, and developing new skills.
-</p>
-
-<p>
-I have basic knowledge of Microsoft Excel and Python.
-I am always looking for opportunities to improve my
-abilities, challenge myself, and learn something new.
-</p>
-
-<hr>
-
-<h2>Education</h2>
-
-<p>
-<strong>Current Status:</strong> Student
-</p>
-
-<p>
-<strong>Interests:</strong> Technology, programming,
-creativity, and continuous learning.
-</p>
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="190" alt="A cat using a computer"/>
 
 </td>
 </tr>
 </table>
 
-<br>
-
-<h2 id="skills" align="center">Skills</h2>
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### Teamwork
-
-Collaborating with others
-to achieve common goals.
-
-</td>
-<td align="center" width="33%">
-
-### Critical Thinking
-
-Analyzing information
-and evaluating ideas.
-
-</td>
-<td align="center" width="33%">
-
-### Problem Solving
-
-Finding solutions through
-logical thinking.
-
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-
-### Communication
-
-Sharing ideas clearly
-and respectfully.
-
-</td>
-<td align="center" width="33%">
-
-### Adaptability
-
-Being open to change
-and new experiences.
-
-</td>
-<td align="center" width="33%">
-
-### Organization
-
-Managing tasks and
-responsibilities.
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<h2 id="technical-knowledge" align="center">
-Technical Knowledge
-</h2>
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-### Microsoft Excel
-
-<img src="https://img.shields.io/badge/Excel-Basic%20Knowledge-7650B8?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-
-Learning spreadsheets and
-data organization.
-
-</td>
-<td width="50%" align="center">
-
-### Python
-
-<img src="https://img.shields.io/badge/Python-Basic%20Knowledge-7650B8?style=for-the-badge&logo=python&logoColor=white"/>
-
-Learning programming
-fundamentals and logic.
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<h2 id="my-mindset" align="center">My Mindset</h2>
+---
 
 <div align="center">
 
-### "Small steps build big dreams."
+## ✦ Technologies & Tools
 
-I believe that every new skill begins with curiosity,
-patience, and the willingness to keep learning.
+<img src="https://img.shields.io/badge/Python-171321?style=for-the-badge&logo=python&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/Excel-171321?style=for-the-badge&logo=microsoftexcel&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/GitHub-171321?style=for-the-badge&logo=github&logoColor=C4B5FD"/>
+<img src="https://img.shields.io/badge/Markdown-171321?style=for-the-badge&logo=markdown&logoColor=C4B5FD"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/LEARN-241638?style=for-the-badge&labelColor=241638"/>
-<img src="https://img.shields.io/badge/GROW-493078?style=for-the-badge&labelColor=493078"/>
-<img src="https://img.shields.io/badge/ACHIEVE-7650B8?style=for-the-badge&labelColor=7650B8"/>
+<img src="https://img.shields.io/badge/Critical%20Thinking-2E174A?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Problem%20Solving-2E174A?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Continuous%20Learning-2E174A?style=flat-square&logoColor=white"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## ✦ GitHub Statistics
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=eve0611&show_icons=true&hide_border=true&bg_color=0D0B14&title_color=C4B5FD&text_color=E9D5FF&icon_color=A78BFA&ring_color=8B5CF6&include_all_commits=true" alt="GitHub statistics"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eve0611&layout=compact&hide_border=true&bg_color=0D0B14&title_color=C4B5FD&text_color=E9D5FF" alt="Most used languages"/>
 
 <br><br>
 
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=eve0611&bg_color=0D0B14&color=C4B5FD&line=8B5CF6&point=E9D5FF&area=true&hide_border=true&custom_title=Eve's%20Contribution%20Graph" alt="Contribution graph"/>
+
 </div>
 
-<hr>
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=241638&height=100&section=footer" width="100%"/>
+## ✦ A Little More About Me
+
+Learning at my own pace  
+Building my skills step by step  
+Cat lover  
+Always ready to explore new ideas
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:30105e,100:0d0b14&height=3&section=footer" width="100%"/>
+
+**Thanks for visiting my profile!** 
+
+<img src="https://komarev.com/ghpvc/?username=eve0611&style=flat-square&color=8b5cf6&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
+```
