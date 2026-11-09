@@ -28,7 +28,7 @@ Hi! I'm **Eve**, a student who enjoys learning new things and exploring the worl
 </td>
 <td width="35%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="190" alt="A cat using a computer"/>
+<img src=![Foca](./foca_transparente.png)
 
 </td>
 </tr>
