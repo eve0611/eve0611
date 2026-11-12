@@ -62,17 +62,14 @@ Hi! I'm **Eve**, a student who enjoys learning new things and exploring the worl
 
 ## ✦ GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eve0611&show_icons=true&theme=midnight-purple&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eve0611&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eve0611&layout=compact&theme=midnight-purple&hide_border=true)
----
 ---
 
 ## ✦ Contribution Graph
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=eve0611&bg_color=0d0b14&color=c4b5fd&line=8b5cf6&point=e9d5ff&area=true&hide_border=true)
-
-<div align="center">
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=eve0611&bg_color=0d0b14&color=c4b5fd&line=8b5cf6&point=e9d5ff&area=true&hide_border=true)
 
 ## ✦ A Little More About Me
 
