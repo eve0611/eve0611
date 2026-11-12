@@ -28,7 +28,10 @@ Hi! I'm **Eve**, a student who enjoys learning new things and exploring the worl
 </td>
 <td width="35%" align="center" valign="middle">
 
-<img src=![Foca](./foca_transparente.png)
+<img width="741" height="713" alt="flor_lila_transparente" src="https://github.com/user-attachments/assets/dabbd67f-5691-4842-a441-467bd8f5a7ef" />
+
+
+
 
 </td>
 </tr>
